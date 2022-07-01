@@ -1,2 +1,2 @@
-# bloggish
-A blogging site that allows the user to post/update/delete their blogs efficiently.(developed by surbhi goel)
+# Spoiler Alert
+A full stack application which allows users to read, post and request reviews of popular web series.
